@@ -1,0 +1,12 @@
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe.config
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.pdb
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.csprojAssemblyReference.cache
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Properties.Resources.resources
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.csproj.GenerateResource.cache
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.csproj.CoreCompileInputs.cache
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.exe
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.pdb
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.MainForm.resources
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input1.resources
+c:\송민지\Day008\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input2.resources

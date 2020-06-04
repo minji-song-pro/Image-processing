@@ -1,0 +1,35 @@
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe.config
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.pdb
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.MainForm.resources
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input2.resources
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\송민지\송민지\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe.config
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.pdb
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.MainForm.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input2.resources
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csproj.CoreCompileInputs.cache
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\송민지\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe.config
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\bin\Debug\Day008-01 영상처리소프트웨어1.pdb
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csprojAssemblyReference.cache
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.MainForm.resources
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Properties.Resources.resources
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input1.resources
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008_01_영상처리소프트웨어1.Sub_Input2.resources
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day009-01 영상처리소프트웨어1.csproj.GenerateResource.cache
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.exe
+C:\Users\kccistc\OneDrive\SongMinJi\3. C#\프로젝트\Day009\Day008-01 영상처리소프트웨어1\obj\Debug\Day008-01 영상처리소프트웨어1.pdb
